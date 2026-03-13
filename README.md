@@ -1,4 +1,4 @@
-# Applying-Transfer-Learning-for-Street-Scale-Nuisance-Flood-Forecasting-in-Coastal-Urban-Cities
+# LSTM Model for Street-Scale Flood Forecasting using Transfer Learning
 We apply Transfer Learning for Street-Scale Nuisance Flood Forecasting in Coastal-Urban Cities using an LSTM model. This is implemented in Keras Python.
 
 
