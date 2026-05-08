@@ -71,5 +71,3 @@ A total of 76 models were developed to evaluate the performance of TL under diff
 **References:** 
 
 Roy, B., S. Goldenberg, D. McSpadden (2026). Input Data for LSTM model for real-time street-scale nuisance flood forecasting in Norfolk, Virginia using Transfer Learning, HydroShare, http://www.hydroshare.org/resource/cdaaadf3e934466a85327a9c3ee1f3e0
-
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20059204.svg)](https://doi.org/10.5281/zenodo.20059204)
